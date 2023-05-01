@@ -6,6 +6,7 @@
 * User Agent:
 * Ciphers:
 * Curves:
+* Label: 1 - bot, 0 - user
 
 ### Model
 
