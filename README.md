@@ -16,7 +16,7 @@
 
 ### Model
 *picture*
-* Encoder - Attention layers
+* Encoder - Transformer
 * Head - Linear
 
 ### Tokenizer
