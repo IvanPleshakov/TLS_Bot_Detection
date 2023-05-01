@@ -15,9 +15,9 @@
 * Test - 0.865
 
 ### Model
-*picture*
+![Diagram](https://user-images.githubusercontent.com/70063162/235439033-72049464-6316-4dce-a420-5e3165e343cc.png)
 * Encoder - TransformerEncoder
-* Head - Linear
+* FC - Fully Connected 
 
 ### Tokenizer
 * BPE Tokenizer
