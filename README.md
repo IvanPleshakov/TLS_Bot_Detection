@@ -34,3 +34,4 @@
 ### Tricks
 * Stratified KFold
 * Positional encoding
+* PyTorch Lightning
