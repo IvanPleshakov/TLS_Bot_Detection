@@ -16,7 +16,7 @@
 
 ### Model
 *picture*
-* Encoder - Transformer
+* Encoder - TransformerEncoder
 * Head - Linear
 
 ### Tokenizer
